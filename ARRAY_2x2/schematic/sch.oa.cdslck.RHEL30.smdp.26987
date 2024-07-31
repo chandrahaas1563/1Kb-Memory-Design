@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      user3
+HostName                       smdp
+ProcessIdentifier              26987
+ProcessCreationTime_UTC        1722406949
+ProcessCreationTime_Readable   Wed Jul 31 11:52:29 2024 IST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/user3/Desktop/Chandrahaas/Chandrahaas_work/ARRAY_2x2/schematic/sch.oa.cdslck
+TimeEditLocked                 Wed Jul 31 12:06:21 2024 IST
